@@ -1,0 +1,5 @@
+#!/bin/bash
+cd tmp
+ls
+cd my_first_directory
+rm betty
